@@ -1,0 +1,10 @@
+@extends('main')
+@section('contents')
+<html lang="en">
+  <body>
+    <main class="container">
+        
+    </main>
+  </body>
+</html>
+@endsection

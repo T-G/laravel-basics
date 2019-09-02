@@ -1,0 +1,5 @@
+@include('_head')
+@include('_nav')
+@include('_message')
+@yield('contents')
+@include('_javascript')
